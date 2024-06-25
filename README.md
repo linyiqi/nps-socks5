@@ -25,7 +25,7 @@
  ## 方法二:linux、windows均支持，需要安装go语言环境进行编译
  [参考NPS文档](https://ehang-io.github.io/nps/#/install)<br>
  1、安装源码
-  <pre><code>go get -u github.com/wyx176/nps-socks5</code></pre>
+  <pre><code>go get -u github.com/linyiqi/nps-socks5</code></pre>
 2、编译服务端：进入到nps-socks5文件夹中执行命令
 <pre><code>go build cmd/nps/nps.go</code></pre>
 3、编译客户端：进入到nps-socks5文件夹中执行命令
@@ -34,7 +34,7 @@
 - 1、后台管理的配置文件<br>
  /etc/nps/conf<br>
  登录账号web_username=admin<br>
- 登录密码web_password=admin<br>
+ 登录密码web_password=【已修改】<br>
  web管理端口web_port = 18080<br>
  修改后需要重启服务端
  - 2、基本命令 <br>
@@ -53,4 +53,4 @@ allow_user_register=true<br>
 -2022.09.03 v1.0<br>
 
 ## 写在最后 ##
-Telegram交流群:https://t.me/Socks55555
+暂无
