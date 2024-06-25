@@ -1,7 +1,7 @@
 #!/bin/bash
 export PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 webPort=18080
-errorMsg=反馈群t.me/Scoks11111
+errorMsg=联系交流：NewP007
 version=v3.0
 downLoadUrl=https://github.com/linyiqi/nps-socks5/releases/download/
 serverSoft=linux_amd64_server
